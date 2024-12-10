@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DataSource2">
+  <ConnectionProperties>
+    <Extension>OLEDB-MD</Extension>
+    <ConnectString>Data Source=DESKTOP-9PRFDGP;Initial Catalog=Excursion_ssas</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>e4953104-03c2-4013-974c-4489a1e5c7ad</DataSourceID>
+</RptDataSource>
